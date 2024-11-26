@@ -1,3 +1,6 @@
+# What is this 
+
+This is a demo of creating 3d models from images for my club at university.
 
 # IMPORTANT
 When using imto3dv2.py speed is slow when calling api maybe due to internet speed of the server or the limit of free sup 
